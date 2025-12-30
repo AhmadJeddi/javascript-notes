@@ -47,5 +47,5 @@ newValue = newValue && 2; // AND assignment
 newValue &&= 3; // shorthand
 
 // Nullish assignment with objects
-obj.lastName = obj.lastName ?? "jeddi";
-obj.lastName2 ??= "jeddizahed";
+obj.lastName = obj.lastName ?? "Harrison";
+obj.lastName2 ??= "Montgomery";
