@@ -46,7 +46,7 @@ const simpleObjectCopy = Object.assign({}, obj);
 
 // Optional chaining & nullish coalescing
 obj.ageCal?.() ?? console.log("ageCal not found");
-obj.firstName ??= "ahmad";
+obj.firstName ??= "melody";
 
 // Iteration
 for (const [key, value] of Object.entries(obj)) {
