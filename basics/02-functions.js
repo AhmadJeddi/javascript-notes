@@ -64,7 +64,7 @@ average(1, 2, 3, 4);
 const telMe = {
   tell: 99999999,
   tel(age = "24") {
-    const name = "ahmad";
+    const name = "melody";
     return function () {
       console.log(name, age, this.tell);
     };
