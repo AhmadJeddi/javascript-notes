@@ -3,6 +3,16 @@
 A comprehensive collection of JavaScript examples, notes, and best practices.
 Perfect for beginners and intermediate developers looking to quickly reference JS concepts.
 
+## 📝 Covered Topics
+
+- Variables and Data Types
+- Functions
+- Control Flow
+- Arrays and Objects
+- DOM Manipulation
+- Object-Oriented Programming
+- ES6+ Features
+
 ## 📂 Structure
 
 ```
